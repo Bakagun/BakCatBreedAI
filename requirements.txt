@@ -1,8 +1,6 @@
-gunicorn
-https://download.pytorch.org/whl/cpu/torch-1.1.0-cp36-cp36m-linux_x86_64.whl
-torchvision==0.2.2
-fastai==1.0.52
-jupyter
+
+torchvision==1.00
+fastai
 voila
 pillow<7
 packaging
