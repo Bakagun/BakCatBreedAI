@@ -1,25 +1,14 @@
-title: Food Images Classifier
-description: Classify food images using deep learning
+title: Bak's Cat Breed Detector
+description: Classify cats (and dogs) into their respective breeds 
 about:
-  This is a Food Images Classifier using Deep Learning built on top of Pytorch.
+  This is a Cat Breed  Classifier using Deep Learning built on top of Pytorch.
 
 
-  The project was build by [Nidhin Pattaniyil](https://npatta01.github.io)
-  and [Reshama Shaikh](https://reshamas.github.io)
 
-
-  More info and the source code can be found [here](https://github.com/npatta01/Bird-Classifier)
-
-code: https://github.com/npatta01/web-deep-learning-classifier
+code: https://github.com/Bakagun/BakCatBreedAI
 
 sampleImages:
-  - name: lasagne
-    url: https://upload.wikimedia.org/wikipedia/commons/b/ba/Lasagne_-_stonesoup.jpg
-  - name: sushi
-    url: https://upload.wikimedia.org/wikipedia/commons/6/60/Sushi_platter.jpg
-  - name: waffles
-    url: https://upload.wikimedia.org/wikipedia/commons/5/5b/Waffles_with_Strawberries.jpg
-  - name: eggplant (not in training data)
-    url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Solanum_melongena_24_08_2012_%281%29.JPG/1280px-Solanum_melongena_24_08_2012_%281%29.JPG
-  - name: table (not in training & not a food)
-    url: https://image.shutterstock.com/image-photo/brown-light-wooden-round-dining-260nw-588358070.jpg 
+  - name: Cat Breed
+    url: https://static.boredpanda.com/blog/wp-content/uploads/2020/09/cat-breeds-omg-meow-fb53-png__700.jpg
+  - name: More Cat Breed
+    url: https://thumbs.dreamstime.com/z/domestic-cat-breeds-hybrids-portraits-collection-isolated-white-flat-color-s-head-style-set-vector-illustration-161684480.jpg
